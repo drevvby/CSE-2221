@@ -1,0 +1,20 @@
+Apple
+a red fruit
+
+Banana
+a yellow fruit
+
+Orange
+an orange fruit
+
+Null
+
+Pear
+a green
+fruit
+
+Gibberish
+,t j4t
+ 4jkjw 
+ 
+ 
